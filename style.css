@@ -1,0 +1,149 @@
+
+body{
+  background-color: gray;
+}
+
+
+
+.btn {
+  font-family: Arial;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  width: 100px;
+  color:white;
+  border: solid  1px;
+  text-decoration: none;
+  background-color:blue;
+  display: block;
+position: absolute;
+  top: 850px;
+  left:700px;
+}
+
+
+ .btn:hover{
+  background-color: gray;
+  color: white;
+  border: solid #eeeeee 3px;
+  text-decoration: none;
+}
+
+.hhh{
+  width: 100px;
+  height: 120px;
+padding: 0px;
+}
+
+.blocks{
+}
+
+.numBlock1{
+  background-color: #070;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  top: 450px;
+  Left: 500px;
+  border: solid white 1px;
+text-align: center;
+padding: 0px;
+}
+
+
+.numBlock2{
+  background-color: #070;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  top: 450px;
+  Left: 600px;
+  border: solid white 1px;
+text-align: center;
+}
+
+.numBlock3{
+  background-color: #070;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  top: 450px;
+  Left: 700px;
+  border: solid white 1px;
+text-align: center;
+}
+
+.numBlock4{
+  background-color: #070;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  top: 550px;
+  Left:500px;
+  border: solid white 1px;
+text-align: center;
+}
+
+
+.numBlock5{
+  background-color: #070;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  top: 550px;
+  Left: 600px;
+  border: solid white 1px;
+text-align: center;
+}
+
+
+
+.numBlock6{
+  background-color: #070;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  top: 550px;
+  Left: 700px;
+  border: solid white 1px;
+text-align: center;
+}
+
+
+.numBlock7{
+  background-color: #070;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  top: 650px;
+  Left: 500px;
+  border: solid white 1px;
+text-align: center;
+}
+
+
+.numBlock8{
+  background-color: #070;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  top: 650px;
+  Left: 600px;
+  border: solid white 1px;
+text-align: center;
+}
+
+
+.numBlock9{
+  background-color: #070;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  top: 650px;
+  Left: 700px;
+  border: solid white 1px;
+text-align: center;
+}
+
+.invesible{
+  visibility: hidden;
+}
